@@ -11,3 +11,10 @@
 - Researching ciphers
 - Lesson 1: Summary and next steps
 ## Lesson 2: Simple Ciphers
+- Lesson 2: Overview
+- What is a 'simple cipher'?
+- Your turn: Try out a simple cipher
+- Simple ciphers: Substitution ciphers
+- Simple ciphers: Transposition ciphers
+- Simple ciphers: Permutation ciphers
+- Simple ciphers: Polygraphic ciphers

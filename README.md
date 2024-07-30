@@ -1,1 +1,1 @@
-# The University of Leeds: An Introduction to Cryptography
+# An Introduction to Cryptography

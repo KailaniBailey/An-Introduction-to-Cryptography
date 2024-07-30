@@ -1,1 +1,2 @@
 # Modern Cryptography
+> Welcome to Week 2. In this week you will bring your knowledge about cryptography up to date in the modern day. This is where we start to look at more complex methods for more complex contemporary requirements. To start off, you will be introduced to a concept called 'public key cryptography' which is extensively used on the internet. You will then learn about hash functions and how some cryptographic techniques can be used to produce a digital signature.

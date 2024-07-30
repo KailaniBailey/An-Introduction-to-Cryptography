@@ -5,4 +5,9 @@
 - The course and its creator
 - What are you looking forward to?
 ## Lesson 1: Simple Cryptography
+- Lesson 1: Overview
+- An introduction to simple cryptography
+- The three roles of cryptography
+- Researching ciphers
+- Lesson 1: Summary and next steps
 ## Lesson 2: Simple Ciphers

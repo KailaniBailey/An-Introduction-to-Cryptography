@@ -2,7 +2,7 @@
 A course from The University of Leeds
 ## Syllabus for the Course
 - **Week 1:** [Welcome to Week 1](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%201:%20Welcome%20to%20Week%201)
-- Week 2: Modern Cryptography
+- **Week 2:** [Modern Cryptography](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%202:%20Modern%20Cryptography)
 ## Summary of Tasks
 - Describe the fundamental concepts and principles of cryptography.
 - Explore historical cyphers and their significance in the evolution of cryptography.

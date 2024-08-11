@@ -7,7 +7,7 @@
 ## Lesson 1: Simple Cryptography
 - [Lesson 1: Overview](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%201:%20Welcome%20to%20Week%201/Lesson%201:%20Overview)
 - [An introduction to simple cryptography](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%201:%20Welcome%20to%20Week%201/An%20introduction%20to%20simple%20cryptography)
-- The three roles of cryptography
+- [The three roles of cryptography](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%201:%20Welcome%20to%20Week%201/The%20three%20roles%20of%20cryptography)
 - Researching ciphers
 - Lesson 1: Summary and next steps
 ## Lesson 2: Simple Ciphers

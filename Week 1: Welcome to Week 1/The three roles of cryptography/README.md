@@ -1,1 +1,6 @@
 # The three roles of cryptography
+In the last step, we saw that there are three ways in which cryptography contributes to protecting data. Here we look at these in more detail:
+
+1. **Privacy**: cryptography helps ensure privacy by encrypting messages and data, making them unreadable to anyone who does not have the **decryption key**. This means that even if the message or data is intercepted, it cannot be read without having to decrypt it first. This is particularly important in situations where sensitive or personal information is being transmitted, such as in online banking or healthcare.
+2. **Security**: cryptography helps ensure security by providing a way to verify the authenticity of messages and data. This is done through **digital signatures**, which use **public key cryptography** to ensure that a message or data has not been tampered with and was indeed sent by the sender.
+3. **Integrity**: cryptography helps ensure data integrity by using a unique digital fingerprint for a message or data. This fingerprint, also known as a **hash**, can be used to verify that the message or data has not been altered in transit. If the hash of the received message or data does not match the original hash, it indicates that the message or data has been tampered with.

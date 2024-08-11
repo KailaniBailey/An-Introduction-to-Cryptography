@@ -28,7 +28,7 @@ You may know that maths is at the heart of computing science subjects so we'll b
 At the end of Week 2 is a test. You can take this test as many times as you like. When you achieve 70% or more, you will be eligible for a Certificate of Achievement. This personalised Certificate of Achievement and transcript detail the syllabus and learning outcomes, as well as your end of course test score. This provides ideal evidence of your interest in and understanding of this subject. The certificate comes in both printable and digital formats, so you can easily add it to your portfolio, CV or LinkedIn profile.
 
 ## Glossary
-As you complete the course you may come across terms that require further explanation. To help with this, there is a [Glossary] that you can view and refer to at any point in the course.
+As you complete the course you may come across terms that require further explanation. To help with this, there is a [Glossary](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/blob/main/Week%201%3A%20Welcome%20to%20Week%201/Glossary.pdf) that you can view and refer to at any point in the course.
 
 ## Next steps
 Now that you’ve found out about the course, move onto the next steps and watch a video introduction by Dr Sam Wilson, the course creator, and then move to the next step where you can introduce yourself to your fellow learners

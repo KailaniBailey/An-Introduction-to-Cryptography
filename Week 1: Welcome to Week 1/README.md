@@ -6,7 +6,7 @@
 - [What are you looking forward to?](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%201:%20Welcome%20to%20Week%201/What%20are%20you%20looking%20forward%20to%3F)
 ## Lesson 1: Simple Cryptography
 - [Lesson 1: Overview](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%201:%20Welcome%20to%20Week%201/Lesson%201:%20Overview)
-- An introduction to simple cryptography
+- [An introduction to simple cryptography](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%201:%20Welcome%20to%20Week%201/An%20introduction%20to%20simple%20cryptography)
 - The three roles of cryptography
 - Researching ciphers
 - Lesson 1: Summary and next steps

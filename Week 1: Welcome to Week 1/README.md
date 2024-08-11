@@ -3,7 +3,7 @@
 ## Course Introduction
 - [Welcome to An Introduction to Cryptography](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%201:%20Welcome%20to%20Week%201/Welcome%20to%20An%20Introduction%20to%20Cryptography)
 - The course and its creator
-- What are you looking forward to?
+- [What are you looking forward to?](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%201:%20Welcome%20to%20Week%201/What%20are%20you%20looking%20forward%20to%3F)
 ## Lesson 1: Simple Cryptography
 - Lesson 1: Overview
 - An introduction to simple cryptography

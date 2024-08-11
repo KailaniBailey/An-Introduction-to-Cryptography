@@ -11,7 +11,7 @@
 - [Researching ciphers](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%201:%20Welcome%20to%20Week%201/Researching%20ciphers)
 - [Lesson 1: Summary and next steps](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%201:%20Welcome%20to%20Week%201/Lesson%201:%20Summary%20and%20next%20steps)
 ## Lesson 2: Simple Ciphers
-- Lesson 2: Overview
+- [Lesson 2: Overview](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%201:%20Welcome%20to%20Week%201/Lesson%202:%20Overview)
 - What is a 'simple cipher'?
 - Your turn: Try out a simple cipher
 - Simple ciphers: Substitution ciphers

@@ -18,3 +18,10 @@
 - [Simple ciphers: Transposition ciphers](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%201:%20Welcome%20to%20Week%201/Simple%20ciphers:%20Transposition%20ciphers)
 - [Simple ciphers: Permutation ciphers](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%201:%20Welcome%20to%20Week%201/Simple%20ciphers:%20Permutation%20ciphers)
 - [Simple ciphers: Polygraphic ciphers](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%201:%20Welcome%20to%20Week%201/Simple%20ciphers:%20Polygraphic%20ciphers)
+- Your turn: Simple ciphers exercise
+- Solutions: Simple ciphers exercise
+- Vulnerabilities of simple ciphers
+- Check your understanding: Simple ciphers
+- What type of cipher did you find?
+- Lesson 2: Summary and next steps
+- End of Week 1: Reflections

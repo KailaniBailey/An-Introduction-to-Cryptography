@@ -27,3 +27,12 @@ The encrypt the first pair "LE", we look in the table and identify the letters "
 
 [ Insert Grid ]
 
+To encrypt the first pair "ED", we look in the table and identify the letters "E" and "D", we then make these letters the corners of a rectangl. We then look at the other two corners of the rectangle and replace the first character of the pair by the other corner character in the rectangle on the same row. Finally we replace the second character of the pair by the other corner character in the rectangle. When we encrypt the character pair "ED" we get the character pair "TR".
+
+[ Insert Grid ]
+
+The encrypt the first pair "SZ", we look in the table and identify the letters "S" and "Z", we then make these letters the corners of a rectangle. We then look at the other two corners of the rectangle and replace the first character of the pair by the other corner character in the rectangle on the same row. Finally we replace the second character of the pair by the other corner character in the rectangle. When we encrypt the character pair "SZ" we get the character pair "NX".
+
+[ Insert Grid ]
+
+Putting this all together we get that the word "LEEDSZ" gets encrypted as "FBTRNX". To decrypt a message that has been encrypted using the Playfair cipher, the same grid is used, but the rules for encryption are applied in reverse. To be able to encrypt and decrypt both people must have a shared grid.

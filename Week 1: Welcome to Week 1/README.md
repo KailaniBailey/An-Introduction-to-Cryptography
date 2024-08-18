@@ -17,4 +17,4 @@
 - [Simple ciphers: Substitution ciphers](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%201:%20Welcome%20to%20Week%201/Simple%20ciphers:%20Substitution%20ciphers)
 - [Simple ciphers: Transposition ciphers](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%201:%20Welcome%20to%20Week%201/Simple%20ciphers:%20Transposition%20ciphers)
 - [Simple ciphers: Permutation ciphers](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%201:%20Welcome%20to%20Week%201/Simple%20ciphers:%20Permutation%20ciphers)
-- Simple ciphers: Polygraphic ciphers
+- [Simple ciphers: Polygraphic ciphers](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%201:%20Welcome%20to%20Week%201/Simple%20ciphers:%20Polygraphic%20ciphers)

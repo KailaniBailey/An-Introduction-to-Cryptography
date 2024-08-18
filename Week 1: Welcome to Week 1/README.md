@@ -16,5 +16,5 @@
 - [Your turn: Try out a simple cipher](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/blob/main/Week%201%3A%20Welcome%20to%20Week%201/caesarcipher.pdf)
 - [Simple ciphers: Substitution ciphers](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%201:%20Welcome%20to%20Week%201/Simple%20ciphers:%20Substitution%20ciphers)
 - [Simple ciphers: Transposition ciphers](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%201:%20Welcome%20to%20Week%201/Simple%20ciphers:%20Transposition%20ciphers)
-- Simple ciphers: Permutation ciphers
+- [Simple ciphers: Permutation ciphers](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%201:%20Welcome%20to%20Week%201/Simple%20ciphers:%20Permutation%20ciphers)
 - Simple ciphers: Polygraphic ciphers

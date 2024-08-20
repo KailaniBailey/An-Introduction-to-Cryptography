@@ -3,7 +3,7 @@ Last week you learned about some of the history of cryptography and how to encry
 
 To do this we first have to understand the difference between private key and public key cryptography. In this lesson you will learn about private and public key cryptography.
 
-Learning objectives
+### Learning objectives
 
 By the end of this lesson, you should be able to:
 

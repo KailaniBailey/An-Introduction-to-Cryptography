@@ -20,7 +20,7 @@
 - [Simple ciphers: Polygraphic ciphers](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%201:%20Welcome%20to%20Week%201/Simple%20ciphers:%20Polygraphic%20ciphers)
 - Your turn: Simple ciphers exercise
 - Solutions: Simple ciphers exercise
-- Vulnerabilities of simple ciphers
+- [Vulnerabilities of simple ciphers](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%201%3A%20Welcome%20to%20Week%201/Vulnerabilities%20of%20simple%20ciphers)
 - Check your understanding: Simple ciphers
 - What type of cipher did you find?
 - Lesson 2: Summary and next steps

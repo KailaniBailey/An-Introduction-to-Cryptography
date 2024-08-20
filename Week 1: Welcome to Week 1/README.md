@@ -24,4 +24,4 @@
 - Check your understanding: Simple ciphers (80%)
 - [What type of cipher did you find?](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%201:%20Welcome%20to%20Week%201/What%20type%20of%20cipher%20did%20you%20find%3F)
 - [Lesson 2: Summary and next steps](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%201%3A%20Welcome%20to%20Week%201/Lesson%202%3A%20Summary%20and%20next%20steps)
-- End of Week 1: Reflections
+- [End of Week 1: Reflections](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%201:%20Welcome%20to%20Week%201/End%20of%20Week%201:%20Reflections)

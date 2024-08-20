@@ -21,7 +21,7 @@
 - Your turn: Simple ciphers exercise
 - Solutions: Simple ciphers exercise
 - [Vulnerabilities of simple ciphers](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%201%3A%20Welcome%20to%20Week%201/Vulnerabilities%20of%20simple%20ciphers)
-- Check your understanding: Simple ciphers
+- Check your understanding: Simple ciphers (80%)
 - What type of cipher did you find?
 - Lesson 2: Summary and next steps
 - End of Week 1: Reflections

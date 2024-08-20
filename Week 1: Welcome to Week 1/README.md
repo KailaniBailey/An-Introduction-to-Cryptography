@@ -23,5 +23,5 @@
 - [Vulnerabilities of simple ciphers](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%201%3A%20Welcome%20to%20Week%201/Vulnerabilities%20of%20simple%20ciphers)
 - Check your understanding: Simple ciphers (80%)
 - [What type of cipher did you find?](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%201:%20Welcome%20to%20Week%201/What%20type%20of%20cipher%20did%20you%20find%3F)
-- Lesson 2: Summary and next steps
+- [Lesson 2: Summary and next steps](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%201%3A%20Welcome%20to%20Week%201/Lesson%202%3A%20Summary%20and%20next%20steps)
 - End of Week 1: Reflections

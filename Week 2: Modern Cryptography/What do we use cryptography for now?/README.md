@@ -11,11 +11,11 @@ One of the most common uses of cryptography in modern life is to secure online t
 
 The techniques that you saw in the previous lesson are far too simple to provide any reasonable level of security online. 
 
-Securing sensitive data
+### Securing sensitive data
 
 Cryptography also plays a crucial role in protecting sensitive data. For example, medical records contain sensitive information about a patient's health and should only be accessible to authorised personnel. Cryptography is used to encrypt these records, ensuring that they cannot be accessed by unauthorised parties.
 
-Securing communications
+### Securing communications
 
 As we saw previously, another critical use of cryptography is in securing communication. With the rise of email and instant messaging, it's important to ensure that our private conversations remain confidential. Cryptography is used to encrypt these communications, ensuring that only the intended recipient can read the message.
 

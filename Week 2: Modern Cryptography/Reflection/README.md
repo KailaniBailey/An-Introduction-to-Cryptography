@@ -5,3 +5,6 @@ Reflect on what you have learned this week. Choose one or two of the following q
 - What did you find interesting?
 - What did you find challenging
 - What would you like to learn more about?
+
+## My Response
+> I’ve learned more about cryptography and the many different ciphers there are. Initially, I wasn’t aware of how many different ciphers currently exist but I did find it interesting and even went a step further and researched a few that I found personally intriguing.

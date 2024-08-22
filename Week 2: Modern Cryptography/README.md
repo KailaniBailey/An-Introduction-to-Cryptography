@@ -18,7 +18,7 @@
 - [Optional exercise: Hash functions](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%202:%20Modern%20Cryptography/Optional%20exercise:%20Hash%20functions)
 - Digital signatures
 - **Practice Quiz**: Check your understanding: Modern cryptography
-- Lesson 4: Summary and next steps
+- [Lesson 4: Summary and next steps](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%202:%20Modern%20Cryptography/Lesson%204:%20Summary%20and%20next%20steps)
 ## Course summary and assessment
 - Course summary
 - Reflection

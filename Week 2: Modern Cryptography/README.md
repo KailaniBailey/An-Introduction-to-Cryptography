@@ -12,7 +12,7 @@
 - [Lesson 3: Summary and next steps](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%202:%20Modern%20Cryptography/Lesson%203:%20Summary%20and%20next%20steps)
 ## Lesson 4: Modern cryptography continued
 - [Lesson 4: Overview](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%202:%20Modern%20Cryptography/Lesson%204:%20Overview)
-- Modern cryptography: End-to-end encryption
+- [Modern cryptography: End-to-end encryption](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%202:%20Modern%20Cryptography/Modern%20cryptography:%20End-to-end%20encryption)
 - End-to-end encryption in the news
 - Hash functions
 - Optional exercise: Hash functions

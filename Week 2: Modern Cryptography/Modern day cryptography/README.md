@@ -27,3 +27,5 @@ Public key cryptography is sometimes also called asymmetric key cryptography. Wi
 Suppose that Alice and Bob want to communicate with each other. They both create a pair of keys, so Alice has a private and a public key and Bob has a separate pair of private and public keys. Alice's public key and Bob's public key can be freely distributed to anyone.
 
 When Alice wants to send a message to Bob she takes Bob's public key and encrypts the message and then send the encrypted message to Bob via some channel of communication. When Bob receives the encrypted message he can then use his private key to decrypt the encrypted message to recover the original message that Alice wanted to send. The special thing about public key cryptography is that the public key can only encrypt messages but can't be used to decrypt messages.
+
+[ Insert Illustration ]

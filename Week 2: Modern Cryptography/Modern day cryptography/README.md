@@ -2,9 +2,9 @@
 ## The two types of modern cryptography
 There are two types of modern cryptography; **private key** cryptography and **public key** cryptography. We will look at each of them in more detail shortly. Independent of whether it is private or public key cryptography, the reason that makes the cryptographic system secure is that there is a hard maths problem that underpins it.
 
-Private key cryptography
+### Private key cryptography
 
-Private key cryptography, sometimes called symmetric key cryptography, is a way of keeping secrets safe by using a secret key that only the sender and the recipient know. Think of the secret key as a password that only you and your friend know. The reason it is called private key cryptography is because the key must remain private in order for the encryption to be secret.
+Private key cryptography, sometimes called **symmetric key cryptography**, is a way of keeping secrets safe by using a secret key that only the sender and the recipient know. Think of the secret key as a password that only you and your friend know. The reason it is called private key cryptography is because the key must remain private in order for the encryption to be secret.
 
 When you want to send a secret message to your friend, you use the secret key to encrypt the message so that nobody else can read it. This process is called encryption. Once the message is encrypted, you can send it to your friend over a channel of communication which need not be secure. When your friend receives the message, they use the same secret key to decrypt the message and read it. This process is called decryption. Because nobody else knows the secret key, nobody else can decrypt the message and read it. It is essential in private key cryptography that the secret that is shared between the sender and receiver is kept secret.
 
@@ -20,9 +20,9 @@ Hypertext Transfer Protocol Secure (HTTPS) is a protocol used to securely transf
 
 AES is considered to be a highly secure encryption algorithm, with no known successful attacks against it. It is used in a variety of applications, including secure communications, data storage, and financial transactions. Its widespread adoption and strong security make it an important tool for protecting sensitive information in today's digital world.
 
-Public key cryptography
+### Public key cryptography
 
-Public key cryptography is sometimes also called asymmetric key cryptography. With public key cryptography the key has two parts known as the public key and the private key. The two keys have different purposes in the encryption and decryption system.
+Public key cryptography is sometimes also called **asymmetric key cryptography**. With public key cryptography the key has two parts known as the **public key** and the **private key**. The two keys have different purposes in the encryption and decryption system.
 
 Suppose that Alice and Bob want to communicate with each other. They both create a pair of keys, so Alice has a private and a public key and Bob has a separate pair of private and public keys. Alice's public key and Bob's public key can be freely distributed to anyone.
 
@@ -36,4 +36,4 @@ It is important that the private part of the key is kept secret, otherwise anyon
 
 One of the advantages of public key cryptography over private key cryptography is that there is no need to have a shared secret between the people involved in the communication. This is because the public part of the key pair can be made public to anyone.
 
-Some public key cryptography also supports digital signature, which will be introduced in a later step.
+Some public key cryptography also supports **digital signature**, which will be introduced in a later step.

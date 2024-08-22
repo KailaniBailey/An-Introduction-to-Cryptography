@@ -22,5 +22,5 @@
 ## Course summary and assessment
 - Course summary
 - [Reflection](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%202:%20Modern%20Cryptography/Reflection)
-- Test your learning and get your certificate
+- **Graded Quiz**: Test your learning and get your certificate
 - Further exploration

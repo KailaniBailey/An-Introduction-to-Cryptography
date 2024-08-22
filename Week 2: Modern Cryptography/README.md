@@ -2,7 +2,7 @@
 > Welcome to Week 2. In this week you will bring your knowledge about cryptography up to date in the modern day. This is where we start to look at more complex methods for more complex contemporary requirements. To start off, you will be introduced to a concept called 'public key cryptography' which is extensively used on the internet. You will then learn about hash functions and how some cryptographic techniques can be used to produce a digital signature.
 ## Lesson 3: An introduction to modern cryptography
 - [Lesson 3: Overview](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%202%3A%20Modern%20Cryptography/Lesson%203%3A%20Overview)
-- What do we use cryptography for now?
+- [What do we use cryptography for now?](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%202%3A%20Modern%20Cryptography/What%20do%20we%20use%20cryptography%20for%20now%3F)
 - Modern day cryptography
 - Rivest-Shamir-Adleman (RSA) encryption
 - Part 1: RSA - key generation

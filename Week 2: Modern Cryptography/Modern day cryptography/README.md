@@ -29,3 +29,11 @@ Suppose that Alice and Bob want to communicate with each other. They both create
 When Alice wants to send a message to Bob she takes Bob's public key and encrypts the message and then send the encrypted message to Bob via some channel of communication. When Bob receives the encrypted message he can then use his private key to decrypt the encrypted message to recover the original message that Alice wanted to send. The special thing about public key cryptography is that the public key can only encrypt messages but can't be used to decrypt messages.
 
 [ Insert Illustration ]
+
+When Bob wants to send a response to Alice, Bob takes Alice's public key and encrypts his message with it. He then sends it to Alice over some channel of communication. Alice takes the encrypted message and decrypts it with her private key to recover the original message that Bob wanted to send.
+
+It is important that the private part of the key is kept secret, otherwise anyone will be able to decrypt and read the messages.
+
+One of the advantages of public key cryptography over private key cryptography is that there is no need to have a shared secret between the people involved in the communication. This is because the public part of the key pair can be made public to anyone.
+
+Some public key cryptography also supports digital signature, which will be introduced in a later step.

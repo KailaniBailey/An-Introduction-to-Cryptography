@@ -34,7 +34,7 @@ Remember that for RSA there is a private key and a public key. We generate both 
 
 The public key is . and the private key is . The public key can be distributed freely with anyone.
 
-## Encryption
+### Encryption
 To encrypt a message you must have the public key . Let  be an integer such that, , which is an encoding of the message. This might be as simple as the letter's position in the alphabet or its ascii value.
 
 The ciphertext, which we will call , can be computed as;
@@ -42,7 +42,7 @@ The ciphertext, which we will call , can be computed as;
 
 That is, we raise  to the power of  then divide it by . The remainder of this division is the ciphertext.
 
-## Decryption
+### Decryption
 
 To decrypt a ciphertext you must have the public key , and the ciphertext . The plaintext can be computed as;
 

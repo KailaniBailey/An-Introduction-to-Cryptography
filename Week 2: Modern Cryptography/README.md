@@ -5,7 +5,7 @@
 - [What do we use cryptography for now?](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%202%3A%20Modern%20Cryptography/What%20do%20we%20use%20cryptography%20for%20now%3F)
 - [Modern day cryptography](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%202:%20Modern%20Cryptography/Modern%20day%20cryptography)
 - [Rivest-Shamir-Adleman (RSA) encryption](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%202:%20Modern%20Cryptography/Rivest-Shamir-Adleman%20(RSA)%20encryption)
-- Part 1: RSA - key generation
+- [Part 1: RSA - key generation](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%202:%20Modern%20Cryptography/Part%201:%20RSA%20-%20key%20generation)
 - Part 2: RSA - Encryption
 - Part 3: RSA - Decryption
 - RSA encryption/decryption

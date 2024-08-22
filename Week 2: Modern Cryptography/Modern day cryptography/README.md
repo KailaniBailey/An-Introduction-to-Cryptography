@@ -10,4 +10,4 @@ When you want to send a secret message to your friend, you use the secret key to
 
 The illustration below shows how Alice sends a message to Bob using a private key cryptography technique.
 
-
+[ Insert Illustration ]

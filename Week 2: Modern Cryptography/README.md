@@ -14,7 +14,7 @@
 - [Lesson 4: Overview](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%202:%20Modern%20Cryptography/Lesson%204:%20Overview)
 - [Modern cryptography: End-to-end encryption](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%202:%20Modern%20Cryptography/Modern%20cryptography:%20End-to-end%20encryption)
 - **Discussion:** [End-to-end encryption in the news](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%202%3A%20Modern%20Cryptography/End-to-end%20encryption%20in%20the%20news)
-- Hash functions
+- [Hash functions](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%202%3A%20Modern%20Cryptography/Hash%20functions)
 - Optional exercise: Hash functions
 - Digital signatures
 - Check your understanding: Modern cryptography

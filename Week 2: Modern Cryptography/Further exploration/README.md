@@ -5,10 +5,10 @@ If you are interested in cryptography there are loads of good resources availabl
 
 People who are interested in cryptography often go into security testing, penetration testing and software development. Completing courses in these areas would be a great next step.
 
-Keep the learning journey alive!
+## Keep the learning journey alive!
 
 If you've loved your time learning with the University of Leeds, why not dive into more exciting online courses offered by us? There's always something new to discover!
 
-Your feedback is valuable
+## Your feedback is valuable
 
 If you have enjoyed the course, help other learners find it, by rating it on Class Central.

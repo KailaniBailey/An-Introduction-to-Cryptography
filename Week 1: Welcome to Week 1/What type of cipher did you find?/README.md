@@ -5,3 +5,6 @@ Earlier in the week you searched online for ciphers and shared the names of some
 - Do you agree with each others' analysis of the type of cipher they found?
 
 Share your thoughts here and read some comments from fellow learners. 
+
+Click to go to: [Researching ciphers](https://github.com/KailaniBailey/An-Introduction-to-Cryptography/tree/main/Week%201%3A%20Welcome%20to%20Week%201/Researching%20ciphers)
+## My Response
